@@ -35,15 +35,15 @@ Exam_Prep_Dost/
 ### 📘 MCQs on Generative AI
 - 30+ MCQs with options and answer key
 - Covers model types, challenges, and applications  
-**[See Sample →](./generative%20ai_mcqs.pdf)**
+**[See Sample →](./generative_ai_mcqs.pdf)**
 
 ### 📙 SQL Summary Notes
 - Concise definitions and command breakdowns  
-**[See Sample →](./SQL%20commands_summary.pdf)**
+**[See Sample →](./Autograd_summary.pdf)**
 
 ### 📗 SQL Tutorial
 - Full coverage with theory, code examples, interview Qs & DB schema design  
-**[See Sample →](./SQL%20commands_tutorial%20(4).pdf)**
+**[See Sample →](./Heaps_and_Tries_tutorial.pdf)**
 
 ---
 
